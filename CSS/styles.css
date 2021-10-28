@@ -1,3 +1,4 @@
+/**************** TAG SELECTORS ******************/
 body {
   background-color: #E3FDFD;
 }
@@ -7,3 +8,7 @@ hr{
   border-top-style: dotted;
   border-width: 3px;
 }
+
+/**************** CLASS SELECTORS ******************/
+
+/**************** ID SELECTORS ******************/
