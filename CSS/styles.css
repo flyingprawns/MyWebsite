@@ -11,17 +11,17 @@ h1 {
 }
 
 /**************** CLASS SELECTORS ******************/
-.Top {
-  background-color: #E3FDFD
+.top-container {
+  background-color: #E3FDFD;
 }
 
-.Middle {
+.middle-container {
   background-color: #30E3CA;
   height: 200px;
   width: 200px;
 }
 
-.Bottom {
+.bottom-container {
   background-color: #11999E;
   height: 200px;
   width: 200px;
