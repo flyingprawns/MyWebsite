@@ -18,20 +18,14 @@ h1 {
   background-color: #E3FDFD;
   position: relative;
   padding-top: 100px;
-  height: 1000px;
+  height: 800px;
   width: 1900px;
 }
 
 .middle-container {
-  background-color: #30E3CA;
-  height: 200px;
-  width: 200px;
 }
 
 .bottom-container {
-  background-color: #11999E;
-  height: 200px;
-  width: 200px;
 }
 
 .top-cloud{
